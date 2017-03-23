@@ -35,3 +35,14 @@ form {
     color: black; }
   form input {
     text-align: center; }
+
+.data {
+  text-align: center; }
+
+#max {
+  border-bottom: 2px solid black;
+  padding-bottom: 16px; }
+
+.icon {
+  width: 100px;
+  height: 100px; }
